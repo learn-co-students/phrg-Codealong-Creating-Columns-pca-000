@@ -18,4 +18,4 @@ You'll want code along on a new branch, not `master`, so create a new branch cal
 
 **Remember**, make sure to add, commit and push up the work you've done on your `columns` branch, then merge the work into your `master`, pushing up the `master` as well!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Codealong-Creating-Columns' title='Codealong Creating Columns'>Codealong Creating Columns</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CSS Columns Code Along Exercise</p>
